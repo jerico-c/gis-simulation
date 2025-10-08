@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geo-Simulasi FTTH</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <div id="map"></div>
+        <div id="sidebar">
+            <div class="toolbar">
+                <h3>Toolbar Perangkat</h3>
+                <button id="add-sto">Tambah STO</button>
+                <button id="add-odc">Tambah ODC</button>
+                <button id="add-odp">Tambah ODP</button>
+                <button id="add-pelanggan">Tambah Pelanggan</button>
+                <button id="draw-kabel">Gambar Kabel</button>
+            </div>
+            <div id="dashboard">
+                <h3>Dashboard & Properti</h3>
+                <div id="properties-panel">Pilih perangkat untuk melihat properti.</div>
+                <hr>
+                <div id="link-budget-panel">Pilih pelanggan untuk menghitung link budget.</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
