@@ -94,6 +94,6 @@ Perhitungan *link budget* pada aplikasi ini mengacu pada dokumen **PR.402.08 Ped
 **Asumsi Tambahan dalam Simulasi:**
 * Setiap perangkat pasif (ODC, ODP, Pelanggan) memiliki **2 konektor** (satu di input, satu di output).
 * Setiap **3 km** panjang kabel diasumsikan terdapat **1 sambungan (splice)**.
-* [cite_start]Batas maksimal redaman yang direkomendasikan untuk desain yang optimal adalah **26 dB**[cite: 610].
-* [cite_start]Jarak maksimum kabel feeder + distribusi adalah **8 km**, lebih dari itu disarankan menggunakan Mini OLT[cite: 611, 5132].
+* Batas maksimal redaman yang direkomendasikan untuk desain yang optimal adalah **26 dB**[cite: 610].
+* Jarak maksimum kabel feeder + distribusi adalah **8 km**, lebih dari itu disarankan menggunakan Mini OLT[cite: 611, 5132].
 ```
