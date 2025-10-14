@@ -1,10 +1,3 @@
-Tentu, ini adalah file `README.md` yang lengkap untuk proyek "Geo-Simulasi" Anda. File ini menjelaskan semua aspek penting dari proyek, mulai dari tujuan, fitur, hingga cara menjalankannya.
-
-Anda bisa menyalin teks di bawah ini dan menyimpannya sebagai file bernama `README.md` di direktori utama proyek Anda.
-
------
-
-```markdown
 # Geo-Simulasi: Simulator Perancangan Jaringan FTTH
 
 ![Demo Aplikasi](https://storage.googleapis.com/gemini-prod/images/b80142df-5011-4475-8025-a1c223a23a35.png)
