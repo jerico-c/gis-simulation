@@ -23,8 +23,8 @@ Aplikasi ini berjalan sepenuhnya di sisi klien (*client-side*), tanpa memerlukan
     * **Edit**: Memindahkan perangkat di peta dengan *drag-and-drop*, di mana semua kabel yang terhubung akan ikut menyesuaikan posisinya.
     * **Hapus**: Menghapus perangkat dari peta, beserta semua koneksi kabel yang terhubung dengannya.
 * **Kalkulator Link Budget Real-time**: Secara otomatis menghitung total redaman dari pelanggan yang dipilih hingga ke STO setiap kali ada perubahan pada topologi jaringan.
-* **Validasi Desain**: Memberikan status visual (✅ **VALID** atau ⚠️ **TIDAK OPTIMAL**) berdasarkan standar redaman maksimal **26 dB** [cite: 610] dan memberikan peringatan jika panjang kabel melebihi **8 km**[cite: 611, 5132].
-* **Pelabelan Otomatis**: Membuat label untuk setiap perangkat baru sesuai dengan pedoman pelabelan PT Telkom (PR.402.04) [cite: 4505-4612].
+* **Validasi Desain**: Memberikan status visual (✅ **VALID** atau ⚠️ **TIDAK OPTIMAL**) berdasarkan standar redaman maksimal **26 dB** dan memberikan peringatan jika panjang kabel melebihi **8 km**.
+* **Pelabelan Otomatis**: Membuat label untuk setiap perangkat baru sesuai dengan pedoman pelabelan PT Telkom (PR.402.04).
 
 ---
 
