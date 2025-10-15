@@ -1,6 +1,5 @@
 # Geo-Simulasi: Simulator Perancangan Jaringan FTTH
 
-![Demo Aplikasi](https://storage.googleapis.com/gemini-prod/images/b80142df-5011-4475-8025-a1c223a23a35.png)
 
 ## 📝 Ringkasan Proyek
 
