@@ -77,7 +77,7 @@ geo-simulasi/
 
 ## 🔧 Standar Teknis yang Digunakan
 
-Perhitungan *link budget* pada aplikasi ini mengacu pada dokumen **PR.402.08 Pedoman Desain dan Perencanaan i-ODN** dari PT Telkom. Nilai redaman yang digunakan adalah sebagai berikut[cite: 692]:
+Perhitungan *link budget* pada aplikasi ini mengacu pada dokumen **PR.402.08 Pedoman Desain dan Perencanaan i-ODN** dari PT Telkom. Nilai redaman yang digunakan adalah sebagai berikut:
 
 | Elemen Jaringan | Batasan Maksimum | Satuan |
 | :--- | :--- | :--- |
