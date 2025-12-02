@@ -1,4 +1,4 @@
-# Geo-Simulasi: Simulator Perancangan Jaringan FTTH
+# GIS-Simulasi: Simulator Perancangan Jaringan FTTH
 
 
 ## 📝 Ringkasan Proyek
